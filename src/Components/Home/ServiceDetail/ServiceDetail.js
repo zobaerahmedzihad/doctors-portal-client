@@ -5,7 +5,7 @@ const ServiceDetail = ({service}) => {
         <div className='col-md-4 text-center'>
             <img src={service.img} alt="img"/>
             <h5 className="mt-4 mb-3"> {service.name} </h5>
-            <p className='text-secondary'>Lorem ipsum, dolor sit and new to go addiction known. vol as much, in.</p>
+            <p className='text-secondary'>Lorem ipsum, dolor hello and new to go addiction known. vol as much, in.</p>
         </div>
     );
 };
